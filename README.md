@@ -137,7 +137,7 @@ broker.hivemq.com
 Tópico utilizado:
 
 ```
-joao123/esp32/led
+casa/sala
 ```
 
 Comandos enviados:
@@ -188,6 +188,8 @@ O sistema irá:
 3. Interpretar o comando com Ollama
 4. Enviar comando MQTT
 5. ESP32 ligar ou desligar o LED
+   
+<img width="1906" height="924" alt="Captura de tela 2026-03-23 153522" src="https://github.com/user-attachments/assets/211457ab-4574-4577-8e9e-d6fd65130350" />
 
 ---
 
